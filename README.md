@@ -52,23 +52,23 @@ recognizing that "Full Time", "full-time", and "FT" refer to the same category.
 
 ## System Architecture
 
-### -Dataset Upload
-          ↓
-### -Automated Data Profiling
-          ↓
+```
+Dataset Upload
+↓
+Automated Data Profiling
+↓
 Data Quality Assessment
-          ↓
+↓
 Health Score Calculation
-          ↓
+↓
 AI Recommendation Engine (Llama 3)
-          ↓
+↓
 Feature Importance Analysis
-          ↓
+↓
 Predictive Model Generation
-          ↓
+↓
 Executive Intelligence Dashboard
-
----
+```
 
 ## Technologies
 
