@@ -30,22 +30,22 @@ Upload any business dataset and PulseIQ will:
 financial values.
 
 **Executive Intelligence Reports**: 
-Generates business-oriented summaries written for decision makers, not just 
+- Generates business-oriented summaries written for decision makers, not just 
 data teams.
 
 **AI-Powered Recommendations**: 
-Uses Llama 3 to produce specific, context-aware recommendations for improving 
+- Uses Llama 3 to produce specific, context-aware recommendations for improving 
 data quality and analytical outcomes.
 
 **Predictive Analytics**: 
-Automatically detects the target variable, trains a Random Forest model, and 
+- Automatically detects the target variable, trains a Random Forest model, and 
 returns predictions with full performance metrics.
 
 **Feature Importance Analysis**: 
-Ranks variables by their influence on the prediction outcome.
+- Ranks variables by their influence on the prediction outcome.
 
 **Smart Category Standardization**: 
-Detects and merges inconsistent categorical values using AI — for example, 
+- Detects and merges inconsistent categorical values using AI — for example, 
 recognizing that "Full Time", "full-time", and "FT" refer to the same category.
 
 ---
