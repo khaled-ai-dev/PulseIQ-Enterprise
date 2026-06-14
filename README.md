@@ -52,9 +52,9 @@ recognizing that "Full Time", "full-time", and "FT" refer to the same category.
 
 ## System Architecture
 
-Dataset Upload
--->
-Automated Data Profiling
+### -Dataset Upload
+
+### -Automated Data Profiling
 -->
 Data Quality Assessment
 -->
