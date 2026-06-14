@@ -50,7 +50,7 @@ recognizing that "Full Time", "full-time", and "FT" refer to the same category.
 
 ---
 
-## System Architecture:
+## System Architecture
 
 Dataset Upload
 -->
@@ -67,3 +67,38 @@ Feature Importance Analysis
 Predictive Model Generation
 -->
 Executive Intelligence Dashboard
+
+---
+
+## Technologies
+
+### Artificial Intelligence
+- Llama 3
+- Ollama
+
+### Machine Learning
+- Random Forest Classifier
+- Random Forest Regressor
+- Label Encoding
+
+### Data Processing
+- Pandas
+- NumPy
+
+### Visualization
+- Streamlit
+
+### Development
+- Python
+- Git
+- GitHub
+
+---
+
+## Business Value
+
+Data quality problems are rarely visible until they cause a real mistake — a wrong forecast, a misleading report, or a model that performs well in testing and fails in production.
+
+PulseIQ was built to surface those problems before they matter. By automating the profiling, assessment, and reporting process, it gives teams a clear picture of their data's reliability in minutes rather than hours.
+
+The result is faster analysis, more confident decision making, and fewer surprises downstream.
