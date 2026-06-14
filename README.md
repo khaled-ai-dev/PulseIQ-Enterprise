@@ -23,10 +23,10 @@ Upload any business dataset and PulseIQ will:
 ## Features
 
 **Health Score Engine**: 
-Scores overall data quality on a 0–100 scale before any analysis begins.
+- Scores overall data quality on a 0–100 scale before any analysis begins.
 
 **Data Quality Assessment**: 
-Flags missing values, duplicate records, invalid dates, outliers, and negative 
+- Flags missing values, duplicate records, invalid dates, outliers, and negative 
 financial values.
 
 **Executive Intelligence Reports**: 
