@@ -2,7 +2,7 @@
 **- An AI-Powered Data Intelligence Platform**
 
 - PulseIQ Enterprise automatically profiles business datasets, detects data quality 
-issues, generates executive reports, and builds machine learning models — all from 
+issues, generates executive reports, and builds machine learning models all from 
 a single upload. Built with Python, Streamlit, and Llama 3.
 
 ---
