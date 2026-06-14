@@ -2,8 +2,16 @@
 
 AI-Powered Data Intelligence Platform
 
-PulseIQ Enterprise is an intelligent analytics platform that helps organizations transform raw datasets into business-ready insights.
+Transforming raw business datasets into actionable intelligence through automated analytics, machine learning, and AI-driven recommendations.
 
-The system automatically evaluates data quality, identifies critical issues, generates executive-level reports, recommends cleaning actions, and builds machine learning models for predictive analysis.
+### Highlights
 
-Designed for business analysts, data professionals, and decision makers, PulseIQ reduces the time required to assess and prepare data while delivering actionable intelligence through automation and artificial intelligence.
+- Automated Data Quality Assessment
+- Executive Intelligence Reporting
+- Machine Learning Predictions
+- Feature Importance Analysis
+- AI-Powered Recommendations
+- Health Score Evaluation
+- Smart Category Standardization
+
+Built with Python, Streamlit, Machine Learning, and Llama 3.
