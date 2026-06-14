@@ -22,32 +22,47 @@ Upload any business dataset and PulseIQ will:
 
 ## Features
 
-**Health Score Engine**
+**Health Score Engine**: 
 Scores overall data quality on a 0–100 scale before any analysis begins.
 
-**Data Quality Assessment**
+**Data Quality Assessment**: 
 Flags missing values, duplicate records, invalid dates, outliers, and negative 
 financial values.
 
-**Executive Intelligence Reports**
+**Executive Intelligence Reports**: 
 Generates business-oriented summaries written for decision makers, not just 
 data teams.
 
-**AI-Powered Recommendations**
+**AI-Powered Recommendations**: 
 Uses Llama 3 to produce specific, context-aware recommendations for improving 
 data quality and analytical outcomes.
 
-**Predictive Analytics**
+**Predictive Analytics**: 
 Automatically detects the target variable, trains a Random Forest model, and 
 returns predictions with full performance metrics.
 
-**Feature Importance Analysis**
+**Feature Importance Analysis**: 
 Ranks variables by their influence on the prediction outcome.
 
-**Smart Category Standardization**
+**Smart Category Standardization**: 
 Detects and merges inconsistent categorical values using AI — for example, 
 recognizing that "Full Time", "full-time", and "FT" refer to the same category.
 
 ---
 
-## System Architecture
+## System Architecture:
+Dataset Upload
+↓
+Automated Data Profiling
+↓
+Data Quality Assessment
+↓
+Health Score Calculation
+↓
+AI Recommendation Engine (Llama 3)
+↓
+Feature Importance Analysis
+↓
+Predictive Model Generation
+↓
+Executive Intelligence Dashboard
