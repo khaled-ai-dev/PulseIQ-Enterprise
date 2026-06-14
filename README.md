@@ -1,5 +1,5 @@
 # PulseIQ Enterprise
-**- An AI-Powered Data Intelligence Platform**
+**An AI-Powered Data Intelligence Platform**
 
 - PulseIQ Enterprise automatically profiles business datasets, detects data quality 
 issues, generates executive reports, and builds machine learning models all from 
