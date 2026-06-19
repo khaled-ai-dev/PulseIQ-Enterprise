@@ -143,8 +143,8 @@ The result is faster decision-making, improved analytical confidence, and a more
 
 ## Author
 
-**Khaled**
+**Khaled Mahmoud**
 
-Computer Science Student | AI & Data Analytics Enthusiast
+Computer Science Student | Aspiring AI & Data Analytics Professional
 
 Interested in Artificial Intelligence, Machine Learning, Data Analytics, and Business Intelligence.
